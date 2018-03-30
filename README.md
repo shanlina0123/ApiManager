@@ -38,8 +38,8 @@ SELECT MD5('your passwd.');
 
 作者信息
 ==========
-* :email:	gongcoder@gmail.com
-* qq:	309581329
+* :email:	1161110682@qq.com
+* qq:	1161110682
 
 最后
 ====
